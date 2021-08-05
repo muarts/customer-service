@@ -3,7 +3,6 @@ package com.trendyol.customerservice.service;
 import com.trendyol.customerservice.entity.Customer;
 import com.trendyol.customerservice.repository.CustomerRepository;
 import org.springframework.stereotype.Service;
-import org.springframework.util.Assert;
 
 @Service
 public class CustomerService {
